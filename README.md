@@ -1,6 +1,7 @@
 # Bi623 Project 2: Electric organ RNA-seq analysis
 
-
+# Lab notebook repo!
+[Lab Notebook Repo!](https://github.com/rmsjdg/Bi621_Lab_Notebooks)
 
 ## Learning goals:
 
